@@ -1,0 +1,4 @@
+Pipfile
+Pipfile.lock
+todo/todo/__pycache__/
+todo/db.sqlite3
